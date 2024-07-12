@@ -1,68 +1,60 @@
 [
-{
-  "hed": "The Biotech Edge: How Executives and Well-Connected Investors Make Exquisitely Timed Trades in Health Care Stocks",
-  "date": "22-Jun-23",
-  "url": "https://www.propublica.org/article/biotech-executives-investors-trade-health-care-stocks",
-  "photo": "https://img.assets-d.propublica.org/v5/images/202306-IRS-Biotech-Lead_2023-06-20-205706_rskm.jpeg?crop=focalpoint&fit=crop&fm=webp&fp-x=0.5&fp-y=0.5&h=1332&q=75&w=2000&s=fb7d27f3f531a076b560093d7d9b9af0",
-  "container": "selected"
-},
-{
-  "hed": "Wealthy Executives Make Millions Trading Competitors’ Stock With Remarkable Timing",
-  "date": "16-Mar-23",
-  "url": "https://www.propublica.org/article/secret-irs-files-trading-competitors-stock",
-  "photo": "https://img.assets-d.propublica.org/v5/images/202303-IRS-Stock-Trading.JPG?crop=focalpoint&fit=crop&fm=webp&fp-x=0.5&fp-y=0.5&h=1332&q=75&w=2000&s=832669834181593810b5f2e0ebe0ede3",
-  "container": "selected"
-},
-{
-  "hed": "How These Ultrawealthy Politicians Avoided Paying Taxes",
-  "date": "04-Nov-21",
-  "url": "https://www.propublica.org/article/how-these-ultrawealthy-politicians-avoided-paying-taxes",
-  "photo": "https://img.assets-d.propublica.org/v5/images/20211103_irs-politicians-justice-polis-devos_3x2.jpg",
-  "container": "selected"
-},
-{
-  "hed": "The Billionaire Playbook: How Sports Owners Use Their Teams to Avoid Millions in Taxes",
-  "date": "08-Jul-21",
-  "url": "https://www.propublica.org/article/the-billionaire-playbook-how-sports-owners-use-their-teams-to-avoid-millions-in-taxes",
-  "photo": "https://img.assets-d.propublica.org/v5/images/20210707-sports-3000x2000.jpg",
-  "container": "selected"
-},
-{
-  "hed": "When Falling Behind on Rent Leads to Jail Time",
-  "date": "26-Oct-20",
-  "url": "https://www.propublica.org/article/when-falling-behind-on-rent-leads-to-jail-time",
-  "photo": "https://assets-c3.propublica.org/images/articles/_threeTwo800w/2020-1026-arkansas-evictions-matt-williams-home.jpg",
-  "container": "selected"
-},
-{
-  "hed": "Credibly Accused",
-  "date": "28-Jan-20",
-  "url": "https://www.propublica.org/article/catholic-leaders-promised-transparency-about-child-abuse-they-havent-delivered",
-  "photo": "https://assets-c3.propublica.org/images/articles/_threeTwo800w/20200128-priest-disclosures-3x2.jpg",
-  "container": "selected"
-},
-{
-  "hed": "Are Arabs and Iranians white? Census says yes, but many disagree",
-  "date": "28-Mar-19",
-  "url": "https://www.latimes.com/projects/la-me-census-middle-east-north-africa-race",
-  "photo": "https://latimes-graphics-media.s3.amazonaws.com/census-mena/la-me-census-2020-middle-east-north-african-box-share.png",
-  "role": "data analysis, data viz",
-  "container": "older"
-},
- {
-   "hed": "Have you rebounded? Track the recovery of home prices in Southern California",
-   "date": "9-Aug-18",
-   "url": "http://www.latimes.com/projects/la-fi-financial-crisis",
-   "photo": "https://latimes-graphics-media.s3.amazonaws.com/assets/img/Financial%20Crisis%20package%202018/Financial_crisis_la-fi-victorville-housing-recovery.gif",
-   "role": "data analysis",
-   "container": "older"
- },
- {
-   "hed": "The Next California (Series)",
-   "date": "23-Sep-18",
-   "url": "https://www.latimes.com/projects/la-pol-ca-next-california",
-   "photo": "./assets/LAtimes_CA_Almanac_Cover_Cameron_Cottrill.gif",
-   "role": "data anlysis",
-   "container": "older"
- }
-]
+  {
+    "hed": "How a Network of Nonprofits Enriches Fundraisers While Spending Almost Nothing on Its Stated Causes",
+    "date": "18-Jun-24",
+    "url": "https://www.propublica.org/article/political-nonprofits-fundraising-ftc-irs-527s-pacs",
+    "photo": "https://img.assets-d.propublica.org/v5/images/20240617-Young-527-Scams-95-web.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=b72582eea6f3339da5c084a1d2a5321d",
+    "container": "selected"
+  },
+  {
+    "hed": "The Biotech Edge: How Executives and Well-Connected Investors Make Exquisitely Timed Trades in Health Care Stocks",
+    "date": "22-Jun-23",
+    "url": "https://www.propublica.org/article/biotech-executives-investors-trade-health-care-stocks",
+    "photo": "https://img.assets-d.propublica.org/v5/images/202306-IRS-Biotech-Lead_2023-06-20-205706_rskm.jpeg?crop=focalpoint&fit=crop&fm=webp&fp-x=0.5&fp-y=0.5&h=1332&q=75&w=2000&s=fb7d27f3f531a076b560093d7d9b9af0",
+    "container": "selected"
+  },
+  {
+    "hed": "Wealthy Executives Make Millions Trading Competitors’ Stock With Remarkable Timing",
+    "date": "16-Mar-23",
+    "url": "https://www.propublica.org/article/secret-irs-files-trading-competitors-stock",
+    "photo": "https://img.assets-d.propublica.org/v5/images/202303-IRS-Stock-Trading.JPG?crop=focalpoint&fit=crop&fm=webp&fp-x=0.5&fp-y=0.5&h=1332&q=75&w=2000&s=832669834181593810b5f2e0ebe0ede3",
+    "container": "selected"
+  },
+  {
+    "hed": "How These Ultrawealthy Politicians Avoided Paying Taxes",
+    "date": "04-Nov-21",
+    "url": "https://www.propublica.org/article/how-these-ultrawealthy-politicians-avoided-paying-taxes",
+    "photo": "https://img.assets-d.propublica.org/v5/images/20211103_irs-politicians-justice-polis-devos_3x2.jpg",
+    "container": "selected"
+  },
+  {
+    "hed": "The Billionaire Playbook: How Sports Owners Use Their Teams to Avoid Millions in Taxes",
+    "date": "08-Jul-21",
+    "url": "https://www.propublica.org/article/the-billionaire-playbook-how-sports-owners-use-their-teams-to-avoid-millions-in-taxes",
+    "photo": "https://img.assets-d.propublica.org/v5/images/20210707-sports-3000x2000.jpg",
+    "container": "selected"
+  },
+  {
+    "hed": "When Falling Behind on Rent Leads to Jail Time",
+    "date": "26-Oct-20",
+    "url": "https://www.propublica.org/article/when-falling-behind-on-rent-leads-to-jail-time",
+    "photo": "https://assets-c3.propublica.org/images/articles/_threeTwo800w/2020-1026-arkansas-evictions-matt-williams-home.jpg",
+    "container": "selected"
+  },
+  {
+    "hed": "Credibly Accused",
+    "date": "28-Jan-20",
+    "url": "https://www.propublica.org/article/catholic-leaders-promised-transparency-about-child-abuse-they-havent-delivered",
+    "photo": "https://assets-c3.propublica.org/images/articles/_threeTwo800w/20200128-priest-disclosures-3x2.jpg",
+    "container": "selected"
+  },
+  {
+    "hed": "Are Arabs and Iranians white? Census says yes, but many disagree",
+    "date": "28-Mar-19",
+    "url": "https://www.latimes.com/projects/la-me-census-middle-east-north-africa-race",
+    "photo": "https://latimes-graphics-media.s3.amazonaws.com/census-mena/la-me-census-2020-middle-east-north-african-box-share.png",
+    "role": "data analysis, data viz",
+    "container": "older"
+  }
+  ]
+  
